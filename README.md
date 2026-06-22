@@ -4,7 +4,7 @@ Just a CS student, trying to be better :)
 
 ## What I'm working on
 -  **nano-agent** — Discord bot with a real LLM agent loop.
--  Learning: Python, classical ML, system design, DSA, etc. 
+-  Learning: Python, java, ML, system design, DSA, backend.
 
 ## Contact
 - siddhantsingh20059@gmail.com
