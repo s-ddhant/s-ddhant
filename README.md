@@ -1,10 +1,10 @@
-# Hi, I'm Siddhant 👋
+# Hellllooo, name's Siddhant
 
-CS student specialising in AIML. Building projects to learn deep, not fast.
+Just a CS student, trying to be better :)
 
 ## What I'm working on
-- 🤖 **nano-agent** — Discord bot with a real LLM agent loop. Calls tools (time, web search, file I/O) to answer questions. Python + Groq.
-- 📚 Learning: Python, classical ML, system design
+-  **nano-agent** — Discord bot with a real LLM agent loop.
+-  Learning: Python, classical ML, system design, DSA, etc. 
 
 ## Contact
 - siddhantsingh20059@gmail.com
